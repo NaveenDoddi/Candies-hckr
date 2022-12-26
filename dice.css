@@ -1,0 +1,25 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    /* border-left: 1px solid; */
+}
+button{
+    height: 50px;
+    width: 50px;
+    
+}
+
+.dum{
+    border: 1px solid;
+}
+
+#center2{
+    background-color: orange;
+    border-radius: 100%;
+
+}
