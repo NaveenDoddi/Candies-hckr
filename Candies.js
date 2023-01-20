@@ -7,6 +7,7 @@ function candies(n, arr) {
         if(arr[i] <= arr[i+1]){
             count = 1
             
+            
         }
         else{
             count++ 
